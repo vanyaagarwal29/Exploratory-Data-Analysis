@@ -2,10 +2,10 @@
 Automated EDA:
 1. Pandas Profiling
 
-2.dtale
+2. dtale
 
-3.sweetviz
+3. sweetviz
 
-4.dataprep
+4. dataprep
 
-5.lux
+5. lux
